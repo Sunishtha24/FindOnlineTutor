@@ -1,0 +1,28 @@
+.pill{
+    color:antiquewhite;
+    font-size: 40px;
+    margin-right: 100px;
+    width: 22%;
+    height: 70px;
+    margin-bottom: 5%;
+    border-radius: 20px;
+    padding-top: 15px;
+    display:inline-block;
+    box-shadow: 5px 5px rgba(81, 78, 78, 0.7);
+}
+
+.cf{
+    padding-top: 180px;  
+}
+
+.all{
+    margin-left: 14%;
+}
+
+.c1{
+    background-color:rgb(101, 125, 117,0.7);
+}
+
+.c2{
+    background-color: rgb(44, 79, 79,0.8);
+}
